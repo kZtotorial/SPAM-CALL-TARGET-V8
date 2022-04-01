@@ -6,9 +6,8 @@
 <p align="center">
 
 <p align="left">
-<a href="#"><img title="Secript Update 2022" src="https://img.shields.io/badge/MASTER%20MASTER-KUNCiENCRYPT LENGKAP-green?colorA=%2&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Secript Update 2022" src="https://img.shields.io/badge/MASTER%20MASTER-KUNCiENCRYPT LENGKAP-green?colorU=%2&colorM=%23017e40&style=for-the-badge"></a>
 <p align="center">
-![screenshot](Screenshot-20220402-022447.png)
 <h2 align="center"><u>SPAM CALL</u></h2>
 
 ![Hack anyone's camera and get images](Screenshot_20220402-022447.png)
