@@ -41,8 +41,9 @@ For termux, use additional command `termux-setup-storage`
 
 ##### copy Run in your terminal
 ```
-wget https://github.com/kZtotorial/SPAM-CALL-TARGET-V8
+git clone https://github.com/kZtotorial/SPAM-CALL-TARGET-V8
 ```
+ - `Sulanjutnya tonton di vidio`
 
 # preview
 ![Screenshot_20220402-022447](https://user-images.githubusercontent.com/99101425/161345756-60161fc5-4d3e-4995-980a-1075b2aca740.jpg)
