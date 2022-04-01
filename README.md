@@ -1,4 +1,13 @@
+# Sosial media
 
+##### YouTube
+```
+https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ
+```
+##### telegram
+```
+https://t.me/Kztutorial
+```
 # kunci-1
 
 <p align="left">
