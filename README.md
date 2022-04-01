@@ -32,7 +32,7 @@ https://t.me/Kztutorial
 </p>
 
 ### [+] Description
-Spam Call is a Hack Pohone OTP. It will generate a link. If anyone opens the link and permits camera access, his/her photo will be captured and sent to you!
+Bahan bahan install di termux 
 
 ### [+] Installation
 
