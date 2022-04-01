@@ -55,7 +55,7 @@ wget https://github.com/kZtotorial/SPAM-CALL-TARGET-V8
 ```
 
 # preview
-< img src="images/Screenshot_20220402-022447.png" >
+< img src="picture/Screenshot_20220402-022447.png" >
 
 ### [+] Features
  - Spam Target
