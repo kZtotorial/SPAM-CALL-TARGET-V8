@@ -23,7 +23,7 @@
 
 ### [+] Description
 Bahan bahan install di termux 
-
+@Kz.tutorial
 ### [+] Installation
 
  - `apt update`
