@@ -9,11 +9,10 @@
 <a href="#"><img title="Secript Update 2022" src="https://img.shields.io/badge/MASTER%20MASTER-KUNCiENCRYPT LENGKAP-green?colorA=%2&colorB=%23017e40&style=for-the-badge"></a>
 <p align="center">
 ![screenshot](Screenshot-20220402-022447.png)
-<h2 align="center"><u>CamHacker</u></h2>
+<h2 align="center"><u>SPAM CALL</u></h2>
 
-![Hack anyone's camera and get images](files/banner.png)
+![Hack anyone's camera and get images](Screenshot_20220402-022447.png)
 <h4 align="center"> Hack anyone's camera and get images!</h4>
-
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&color=blue">
      <img src="https://img.shields.io/github/stars/KasRoudra/CamHacker?style=for-the-badge&color=magenta">
