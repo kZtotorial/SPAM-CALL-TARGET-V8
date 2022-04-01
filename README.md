@@ -49,7 +49,7 @@ Bahan bahan install di termux
 For termux, use additional command `termux-setup-storage`
  - `Wget ⬇️`
 
-##### Or Run Directly
+##### copy Run in your terminal
 ```
 wget https://github.com/kZtotorial/SPAM-CALL-TARGET-V8
 ```
