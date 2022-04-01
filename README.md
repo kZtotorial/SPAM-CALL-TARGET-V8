@@ -1,15 +1,3 @@
-# Sosial media
-
-##### YouTube
-```
-https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ
-```
-![Screenshot_20220402-053220](https://user-images.githubusercontent.com/99101425/161344008-a0de5fc3-d408-4fe5-9606-89711229ec70.png)
-
-##### telegram
-```
-https://t.me/Kztutorial
-```
 # kunci-1
 
 <p align="left">
@@ -82,3 +70,16 @@ You need to use good (not mini version like opera mini) browsers as chrome/brave
 
 ### [+] Info
 ***Jaggan lupa subscribe yotube Kz.tutorial😆
+# Sosial media
+
+##### YouTube
+```
+https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ
+```
+![Screenshot_20220402-053220](https://user-images.githubusercontent.com/99101425/161344008-a0de5fc3-d408-4fe5-9606-89711229ec70.png)
+
+##### telegram
+```
+https://t.me/Kztutorial
+```
+![IMG_20220402_053650](https://user-images.githubusercontent.com/99101425/161344802-a117b2b2-67fc-419f-b763-062d95b5b850.jpg)
