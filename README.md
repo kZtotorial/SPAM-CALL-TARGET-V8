@@ -37,7 +37,7 @@ Bahan bahan install di termux
  - `pip install mechanize`
 
 For termux, use additional command `termux-setup-storage`
- - `Wget ⬇️`
+ - `Salin ⬇️`
 
 ##### copy Run in your terminal
 ```
